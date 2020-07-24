@@ -35,6 +35,13 @@ body {
 	text-align:center;
 	padding-top: 50px;
 }
+.map{
+	 background-color:#CCC;
+	 text-align:center;
+	}
+
+.videodisp{display:block;}
+.videodispm{display:none;}
 
 @media (max-width: 768px) {
   .intro-left {
@@ -43,6 +50,10 @@ body {
     position: relative;
     width: 100%;
   }
+  
+  .videodisp{display:none;}
+.videodispm{display:block;}
+
 }
 
 .avatar {

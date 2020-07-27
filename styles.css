@@ -93,14 +93,14 @@ a {
 }
 
 .footer {
-  background-color: lightsteelblue;
+  color:maroon !important;
   font-size: 1rem;
   margin: 0;
   padding: 20px 0px 20px 0px;
 }
 
 .text-muted{
-	color:maroon !important;
+	
 	font-family:"Comic Sans MS", cursive;
 }
 
